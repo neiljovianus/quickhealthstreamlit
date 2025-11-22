@@ -1,0 +1,20 @@
+# Basic essentials
+numpy==1.23.1
+pandas==2.0.3
+scikit-learn==1.3.0
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Optional (for exporting reports)
+reportlab==3.6.12  # PDF output
+fpdf2==2.7.8       # alternative PDF lib
+
+# GUI/interaction (if needed)
+tkintertable==1.3.3
+
+# For nicer terminal output (optional)
+rich==13.5.2
+
+# Extras
+streamlit==1.39.0
+plotly==5.24.1
